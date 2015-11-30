@@ -25,3 +25,13 @@ bye  cd  chmod  create  help  login  ls  mkdir  open  pwd  rm  rmdir  signup
 
 (Shield>)
 
+
+License
+-------
+
+GNU General Public License v2.0
+
+Credits
+-------
+
+Cipher utilities have been re-used from Eli Brendesky's website. http://eli.thegreenplace.net/
