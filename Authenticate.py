@@ -4,8 +4,8 @@ import dropbox
 class DropBoxSDK():
 
   # Get your app key and secret from the Dropbox developer website
-  app_key = 'sw5ubcmq2ohe74g'
-  app_secret = 'peh8wkii4ju0a8j'
+  app_key = ''
+  app_secret = ''
   
   def authorize(self):
    flow = dropbox.client.DropboxOAuth2FlowNoRedirect(self.app_key, self.app_secret)
